@@ -5,9 +5,7 @@ Date (when the work completed):
 Actual hrs spent for the assignment:
 Assignment evaluation (3 key points): 
 
-                         Requirements Report
-
-
+                       Requirements Report
 
 1) Who should you be asking about the requirements? 
  
