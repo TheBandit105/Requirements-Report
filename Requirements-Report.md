@@ -160,7 +160,7 @@ This is because more than one person would be able to join a server for the 1st 
 Deadlines must be decided as well and should be one of the points that should be clarified first.
 There is no set deadline for this project. This could lead to delays in the project. 
 Hence, having a deadline will allow the developers to follow a certain time frame of planning and the making of the game.
-“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.” [2]
+“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.”
 
 
 The topics of the game have also not been decided. 
@@ -171,7 +171,7 @@ Furthermore, the customer must decide on what type of questions the topic will c
 Therefore, deciding what topics are on the game should be one of the points that will need to be clarified first.  
 
 #### Bibliography 
-https://ebookcentral.proquest.com/lib/reading/reader.action?docID=4763819 [1]
+https://ebookcentral.proquest.com/lib/reading/reader.action?docID=4763819 
 
 https://www.inmobi.com/blog/2015/01/19/4-legal-aspects-you-need-to-be-aware-of-when-developing-a-mobile-app
 
