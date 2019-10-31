@@ -15,7 +15,7 @@
 |4|design and plan| assign the resources to each member and recruit experts|
 |5|preparing draft|purposal to the customer and modify accordingly|
 |6|testing software|checking the staus and check if it runs|
-|7|demonstration of software|handing over,installation and full payment to be made| 
+|7|demonstration of software|handing over,installation and check full payment | 
 #### Question 1
 
 #### Question 2
