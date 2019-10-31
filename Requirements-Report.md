@@ -3,7 +3,7 @@
 #### Requirements Reports
 #### Submitted By:Group-15(26017523; 27015244; 28012575; 28019623; 28019273)
 #### Date (when the work completed): 31st of October 2019.
-#### Actual hrs spent for the assignment:
+#### Actual hrs spent for the assignment: 30 hours
 #### Assignment evaluation (3 key points): 
 #### Contents
 ````s
