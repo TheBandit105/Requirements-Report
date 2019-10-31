@@ -2,14 +2,32 @@
 #### Title:  *A Report on video game to encourage university student to do the set readings*.
 #### Requirements Reports
 #### Contents
+````s
+1. Introduction
+
+   1.2 Abstract
+   
+   1.3 Background
+   
+   1.4 Production Timeline
+   
+2. Requirement Analysis
+
+   2.1 Asking about requirements
+   
+   2.2 Poits to clearify
+   
+   2.3 Constraints
+   
+   2.4 Points to clearify first
+   
+3.Conclusion
+
+4.References
+````
+  
 
 #### Introduction
-
-Our team has been tasked to create a game product for our customer. The objective is to create an educational video game in the form of a first person puzzle game.
-This is going to be for the target audience of university students studying the history of the Atlantic, meaning the age range will be for mature individuals 18+
-with at least a basic knowledge of history. We will also be including a high score table to include some kind of competitiveness to the game which will also encouraging
-the users to compare to others and try to beat own or others high scores. We will be looking at the requirements of the product, points to be clarified from customer,
-and constraints included.
 
 #### Abstract
  An educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
@@ -93,38 +111,9 @@ A suitable game engine must be selected for the project if not problem may arise
 It is most significant to keep our ideas and codes confidential but that it doesn’t meant to be lock down. Copyright law aims to protect the intellectual property and give exclusive right to the author of creative work. According to the given scenario, a customer wishes to develop an educational video game which requires a set of reading about the history of Atlantic as it brings a copyright issue. Thus, a copyright licence is required after the completion of game and needs to register for copyright to protect the game product.
 
 #### Question 4
-Firstly, the customer needs to decide what game they want to implement for their students. 
-In the brief, two ideas were suggested, one of the ideas being a puzzled based game or a 1st person adventure. 
-From the two ideas, one must be decided so that we are able to develop a plan according to which game the customer wants. 
-If the customer wants to develop a puzzle game, then a set of questions can be used as puzzle. 
-As there are various ways to develop a puzzle the customer will need to decide what the best idea is for a game. 
-A puzzle will most likely include the students to solve the puzzle by reading the statements. 
-Another way of having a puzzle based game is if they need to match the description to the words.  
 
-On the other hand, if the customer wanted a 1st person adventure, then more thought and decisions will to be made. 
-A 1st person adventure will require more time for the game to make. Not knowing what type of game the customer wants can lead to unnecessary problems.
-It is important to know what game the customer wants so that the development of the game can start quicker. 
 
-Deciding if the game will be single player or multiplayer could be point that will need clarification first.
-The customer could decide to have a single player game to which a game can be made from. 
-Clarifying that the customer wants a single player game could lead to changes being made about the game.
-For example, a puzzle would be best suited as a single player game. Whereas a 1st person adventure would be best suited as a multiplayer game. 
-This is because more than one person would be able to join a server for the 1st person adventure game. 
-
-Deadlines must be decided as well and should be one of the points that should be clarified first. 
-There is no set deadline for this project. This could lead to delays in the project. 
-Hence, having a deadline will allow the developers to follow a certain time frame of planning and the making of the game.
-“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.”
-[https://www.quora.com/Why-is-important-to-meet-deadlines]  
-
-The topics of the game have also not been decided. 
-There should be a clear idea of what topics the game will include thus, the developers will know what content to include within the game. 
-As stated in the brief, the readings are about The Atlantic. 
-There are various topics within the subject so the customer will need to decide which topics to include in the game. 
-Furthermore, the customer must decide on what type of questions the topic will contain. 
-Therefore, deciding what topics are on the game should be one of the points that will need to be clarified first.  
-
-#### Submitted By:Group-15(25098635; 26017523; 27015244, 28012575)
+#### Submitted By:Group-15(25098635; 26017523; 27015244)
 #### Date (when the work completed): 31st of October 2019.
 #### Actual hrs spent for the assignment:
 #### Assignment evaluation (3 key points): 
