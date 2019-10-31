@@ -1,6 +1,6 @@
 ### Module Code: CS1SE17
 ### Title: *Requirements Report on video game to encourage university student to do the set readings*.
-### Requiremets Reports
+### Requirements Reports
 ### Abstract
 with an educational objective to encourage univesrity students to study set of readings on history 
 
