@@ -50,7 +50,7 @@ The general background gathered while intergating the third party tool such as g
 |S.N no|Description|Remarks|
 |--|--|--|
 |1|meeting customers|discuss the basic requirements and clearify the the software  |
-|2|meetig team member| codes used to produce the software and detailed plannig process| 
+|2|meeting team member| codes used to produce the software and detailed plannig process| 
 |3|meeting customer again|discussing the mode of payment and also the difficulties and possible delays|
 |4|design and plan| assign the resources to each member and recruit experts|
 |5|preparing draft|purposal to the customer and modify accordingly|
