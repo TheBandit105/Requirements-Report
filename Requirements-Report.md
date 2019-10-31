@@ -33,7 +33,7 @@
 
 #### Introduction
 
-Our team has been tasked to create a game product for our customer. The objective is to create an educational video game in the form of a first person puzzle game. This is going to be for the target audience of university students studying the history of the Atlantic, meaning the age range will be for mature individuals 18+ with at least a basic knowledge of history. We will also be including a high score table to include some kind of competitiveness to the game which will also encouraging the users to compare to others and try to beat own or others high scores. We will be looking at the requirements of the product, points to be clarified from customer, and constraints included.[1] 
+Our team has been tasked to create a game product for our customer. The objective is to create an educational video game in the form of a first person puzzle game. This is going to be for the target audience of university students studying the history of the Atlantic, meaning the age range will be for mature individuals 18+ with at least a basic knowledge of history. We will also be including a high score table to include some kind of competitiveness to the game which will also encouraging the users to compare to others and try to beat own or others high scores. We will be looking at the requirements of the product, points to be clarified from customer, and constraints included. 
 
 #### Abstract
  An educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
@@ -54,7 +54,7 @@ The general background gathered while intergating the third party tool such as g
 |7|demonstration of software|handing over,installation and check full payment | 
 #### Question 1
 
-The team will have to research some understanding of the history of the Atlantic in order to know what kind of information to include in the end product. We will use the information given to us in form of the book by Catherine Amstrong & Laura M Chmielewski, 2013, “The Atlantic Experience: peoples, places, ideas”, Palgrave Macmillan, Houndmills, Basingstoke, which is also available online.
+The team will have to research some understanding of the history of the Atlantic in order to know what kind of information to include in the end product. We will use the information given to us in form of the book by Catherine Amstrong & Laura M Chmielewski, 2013, “The Atlantic Experience: peoples, places, ideas”, Palgrave Macmillan, Houndmills, Basingstoke, which is also available online.[1]
 
 After clarifying with the customer on the specifics of the end product. We will have to plan an accurate budget and inform the customer of this before beginning any work on the product as it may come as a shock to the customer to find, with all information finalised, that the product will cost more than that which they had thought. We will also have to take into account the price of the software/hardware we may need if it is not already available for use.
 
