@@ -1,6 +1,7 @@
 #### Module Code: CS1SE17
 #### Title:  *A Report on video game to encourage university student to do the set readings*.
 #### Requirements Reports
+#### Contents
 
 #### Introduction
 
