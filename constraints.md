@@ -1,3 +1,28 @@
+1. Introduction .....................................1
+
+   1.2 Abstract ......................................
+   
+   1.3 Background ....................................
+   
+   1.4 Production Timeline ...........................
+   
+2. Requirement Analysis ..............................2
+
+   2.1 Question 1 (Asking about requirements) .........
+   
+   2.2 Question 2 (Points to clarify) .................
+   
+   2.3 Question 3 (Constraints) .......................
+   
+   2.4 Question 4 (Points to clarify first) ...........
+   
+3. Conclusion ........................................3
+
+4. Bibliography ......................................4
+
+
+
+
 ## What are the constraints that might be there? 
 
 **Preproduction phase**:
