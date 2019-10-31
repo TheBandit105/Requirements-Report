@@ -9,7 +9,8 @@
 
 |S.N no|Description|Remarks|
 |--|--|--|
-| 1|meeting customers|discuss the basic requirements and clearify the the software  |
+|1|meeting customers|discuss the basic requirements and clearify the the software  |
+|2|meetig team member| codes used to produce the software and detailed plannig process| 
 #### Question 1
 
 #### Question 2
