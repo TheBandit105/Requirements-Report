@@ -23,23 +23,27 @@
    
    2.3 Question 3 (Constraints)
    
-   2.4 Question 4 (Points to clearify first)
+   2.4 Question 4 (Points to clarify first)
    
 3.Conclusion
 
-4.References
+4.Bibliography
 ````
   
 
 #### Introduction
 
-Our team has been tasked to create a game product for our customer. The objective is to create an educational video game in the form of a first person puzzle game. This is going to be for the target audience of university students studying the history of the Atlantic, meaning the age range will be for mature individuals 18+ with at least a basic knowledge of history. We will also be including a high score table to include some kind of competitiveness to the game which will also encouraging the users to compare to others and try to beat own or others high scores. We will be looking at the requirements of the product, points to be clarified from customer, and constraints included. 
+Our team has been tasked to create a game product for a customer.
+The objective is to create an educational video game in the form of a first person puzzle game.
+This is going to be for the target audience of university students studying the history of the Atlantic, meaning the age range will be for mature individuals 18+ with at least a basic knowledge of history.
+We will also be including a high score table to include some kind of competitiveness to the game which will also encouraging the users to compare to others and try to beat own or others high scores.
+We will be looking at the requirements of the product, points to be clarified from customer, and constraints included. 
 
 #### Abstract
  An educational objective to encourage university students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
 
 #### Backgroud
-The general background gathered while intergating the third party tool such as game coding engine and manipulate them to develop a educational software that opens the door of education through video games to engage uiversity student.
+The general background gathered while intergating the third party tool such as game coding engine and manipulate them to develop a educational software that opens the door of education through video games to engage university student.
 
 #### Production Timeline
 
@@ -98,7 +102,6 @@ The final point to decide on is what devices will the game be compatible on.
 The game could be available to laptops, mobile phones, tablets, gaming consoles (such as the Xbox, PlayStation or Nintendo Switch) or any other device.
 
 #### Question 3
-## What are the constraints that might be there? 
 
 **Preproduction phase**:
 
