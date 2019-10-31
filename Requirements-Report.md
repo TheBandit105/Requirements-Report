@@ -175,3 +175,9 @@ https://ebookcentral.proquest.com/lib/reading/detail.action?docID=4763819
 https://www.inmobi.com/blog/2015/01/19/4-legal-aspects-you-need-to-be-aware-of-when-developing-a-mobile-app
 
 https://www.solutionsiq.com/resource/blog-post/operating-requirements-vs-technical-constraints/
+
+https://www.possible.com/games/blog-7-difficulties-in-game-development
+
+https://www.wrighthassall.co.uk/knowledge/legal-articles/2015/11/23/legal-issues-independent-games-developers/
+
+https://en.wikipedia.org/wiki/Copyright_and_video_games
