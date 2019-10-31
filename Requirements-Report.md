@@ -7,25 +7,25 @@
 #### Assignment evaluation (3 key points): 
 #### Contents
 ````s
-1. Introduction
+1. Introduction .................................1
 
-   1.2 Abstract
+   1.2 Abstract ..................................
    
-   1.3 Background
+   1.3 Background ................................
    
-   1.4 Production Timeline
+   1.4 Production Timeline .......................
    
-2. Requirement Analysis
+2. Requirement Analysis .........................2
 
-   2.1 Question 1 (Asking about requirements)
+   2.1 Question 1 (Asking about requirements) ....
    
-   2.2 Question 2 (Points to clarify)
+   2.2 Question 2 (Points to clarify) ............
    
-   2.3 Question 3 (Constraints)
+   2.3 Question 3 (Constraints) ..................
    
-   2.4 Question 4 (Points to clarify first)
+   2.4 Question 4 (Points to clarify first) ......
    
-4.Bibliography
+3. Bibliography .................................3
 ````
   
 
@@ -123,10 +123,11 @@ Is it due to the fact that it requires team participation to complete the given 
 
 **Technical issue**:
 
+A suitable game engine must be selected for the project if not problem may arise while integrating third party tool such as game coding engine from the internet. The most common language for game development is C++ and Java and if we tend to use Unity for our game project as they don’t support C++as scripting language. So, this demands a period of time to learn and understand and manipulate them hence an appropriate selection is required to prevent the risk.
+
 As the customer gives the requirements that they wish the game would include, you would need to consider several factors so that they can actually be done such as the time given to complete the tasks, the budget if there is enough money to start and complete the project.
 When creating the game, the customer should give the system specifications of the computer or devices where game will be played on. This is so the developers will know the requirements of the specification and will be able to develop the game suited for the device allowing them to run on the devices as it will be of no use if they can’t run the game on the computers they have.
 A system specification that would be required for the customer to give would be the type of operating system that the devices use e.g. Windows, Linux, IOS, Android etc. Other system requirements that must be known is the processor and memory as the processor allows the game to run effective so if the game was developed the required a faster processor than the one the computers have the game would run as well. Whereas memory is used to store information and data of the game e.g. the actual game size and when the game is running the temporary data such as score. Knowing the type of processor and memory allows to develop the game so that the computers can run the game effectively and efficiently.
-Also a suitable game engine must be selected for the project if not problem may arise while integrating third party tool such as game coding engine from the internet. The most common language for game development is C++ and Java and if we tend to use Unity for our game project as they don’t support C++as scripting language. So, this demands a period of time to learn and understand and manipulate them hence an appropriate selection is required to prevent the risk.
 
 **Legal Issue**:
 
