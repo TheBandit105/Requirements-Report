@@ -1,6 +1,10 @@
 #### Module Code: CS1SE17
 #### Title:  *A Report on video game to encourage university student to do the set readings*.
 #### Requirements Reports
+#### Submitted By:Group-15(26017523; 27015244; 28012575; 28019623; 28019273)
+#### Date (when the work completed): 31st of October 2019.
+#### Actual hrs spent for the assignment:
+#### Assignment evaluation (3 key points): 
 #### Contents
 ````s
 1. Introduction
@@ -143,8 +147,3 @@ As stated in the brief, the readings are about The Atlantic.
 There are various topics within the subject so the customer will need to decide which topics to include in the game.
 Furthermore, the customer must decide on what type of questions the topic will contain. 
 Therefore, deciding what topics are on the game should be one of the points that will need to be clarified first.  
-
-#### Submitted By:Group-15(26017523; 27015244; 28012575; 28019623; 28019273)
-#### Date (when the work completed): 31st of October 2019.
-#### Actual hrs spent for the assignment:
-#### Assignment evaluation (3 key points): 
