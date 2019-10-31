@@ -171,7 +171,7 @@ Furthermore, the customer must decide on what type of questions the topic will c
 Therefore, deciding what topics are on the game should be one of the points that will need to be clarified first.  
 
 #### Bibliography 
-https://ebookcentral.proquest.com/lib/reading/detail.action?docID=4763819
+https://ebookcentral.proquest.com/lib/reading/reader.action?docID=4763819 [1]
 
 https://www.inmobi.com/blog/2015/01/19/4-legal-aspects-you-need-to-be-aware-of-when-developing-a-mobile-app
 
