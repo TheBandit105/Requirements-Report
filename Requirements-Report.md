@@ -7,25 +7,25 @@
 #### Assignment evaluation (3 key points): 
 #### Contents
 ````s
-1. Introduction ...............................................................1
+1. Introduction .................................1
 
-   1.2 Abstract ...............................................................
+   1.2 Abstract ..................................
    
-   1.3 Background .............................................................
+   1.3 Background ................................
    
-   1.4 Production Timeline ....................................................
+   1.4 Production Timeline .......................
    
-2. Requirement Analysis .......................................................2
+2. Requirement Analysis .........................2
 
-   2.1 Question 1 (Asking about requirements) .................................
+   2.1 Question 1 (Asking about requirements) ....
    
-   2.2 Question 2 (Points to clarify) .........................................
+   2.2 Question 2 (Points to clarify) ............
    
-   2.3 Question 3 (Constraints) ...............................................
+   2.3 Question 3 (Constraints) ..................
    
-   2.4 Question 4 (Points to clarify first) ...................................
+   2.4 Question 4 (Points to clarify first) ......
    
-3. Bibliography ...............................................................3
+3. Bibliography .................................3
 ````
   
 
@@ -103,23 +103,23 @@ The game could be available to laptops, mobile phones, tablets, gaming consoles 
 
 **Preproduction phase**:
 
-Whether the game developing studio is small or large group the issue is very common as employee tends to skip this phase. During game production phase many design decisions are made which is extremely risky and may harm the product. We might create excitement game, attractive graphics, renowned music and better sound effect but if these qualities don’t bind together then we fail to produce a great game. We try to overcome such situation by beginning the preproduction phase to have a strong vision which is absolutely necessary for victorious game development.
+Whether the game developing studio is a small or large group, the issue is very common as employees tend to skip this phase. During game production phase, many design decisions are made which is extremely risky and may harm the product. We might create an exciting game with attractive graphics, renowned music and better sound effects, but if these qualities don’t bind together then we fail to produce a great game. We try to overcome such situation by beginning in the preproduction phase to have a strong vision which is absolutely necessary for successful game development.
 
 **Prototyping**:
 
-Deciding whether the features are authentic can be troublesome and tricky to overcome. The process of implementation can be problematic when it doesn’t work, in such situation do we improvise or just cut it completely? If we remove it, we might lose the significant characteristic that needed more effort and time but if we labour more on it, we may lose more and more of our working time. We should weight the pros and cons and should overall understand and analyse the time to complete in order to get better result. For this reason, an experience plays a vital role to determine and manage as to hold effective outcome. 
+Deciding whether the features are authentic can be troublesome and tricky to overcome. The process of implementation can be problematic when it doesn’t work. In such situation do we improvise or just cut it completely? If we remove it, we might lose the significant characteristic that needed more effort and time but if we labour more on it, we may lose more and more of our working time. We should weigh the pros and cons and should overall understand and analyse the time to complete in order to get a better result. For this reason, an experience plays a vital role to determine and manage as to hold effective outcome. 
 
 **Project estimation**:
 
-It can be really hard for any project to be estimated as it is mainly true when it comes to video games. For any company which is changing rapidly we must keep tight on our schedules or else we might get irritated or frustrated or end up executing new ideas until the end. A cool feature always sounds cool, but do we have the time to accomplish? Does the profit gained outweigh the cost? How much do we need to rewrite the code? These few questionnaires we need to answer before we start anything new. Thus having a quality management is the key feature in every aspect of development process for productive achievement.
+It can be really hard for any project to be estimated as it is mainly true when it comes to video games. For any company which is changing rapidly we must keep tight on our schedules or else we might get irritated or frustrated or end up executing new ideas until the end. A cool feature always sounds cool, but do we have the time to accomplish it? Does the profit gained outweigh the cost? How much do we need to rewrite the code? These are the few questionnaires we need to answer before we start anything new. Thus having a quality management is the key feature in every aspect of the development process for productive achievement.
 
 **People risk**:
 
-Is it due to the fact that it requires team participation to complete the given task where a poor correlation among the team members with poor staff morale may cause such issue while this is the most unfortunate and most command risk that can happen in a project. As this matter hinders in the development process and bring serious damage in the steps of production so a quality communication with a better understanding in the task must be maintained at any time.
+Is it due to the fact that it requires team participation to complete the given task where a poor correlation among the team members with poor staff morale may cause such issue. This is the most unfortunate and most command risk that can happen in a project. As this matter hinders in the development process and brings serious damage in the steps of production, so quality communication with a better understanding in the task must be maintained at all time.
 
 **Organisational risk**:
 
- Uncertainty and lack of resources which include materials, legal, security, budget, time as well as human resources can strike a project at any time. In order to avoid such circumstances team mush have organised plan and assign the management work to someone to keep the daily record as well to inform the deadline of the project.
+ Uncertainty and lack of resources which include materials, legal, security, budget, time as well as human resources can strike a project at any time. In order to avoid such circumstances, the team must have an organised plan and assign the management work to someone to keep the daily record as well as to inform the deadline of the project.
 
 **Technical issue**:
 
@@ -160,7 +160,7 @@ This is because more than one person would be able to join a server for the 1st 
 Deadlines must be decided as well and should be one of the points that should be clarified first.
 There is no set deadline for this project. This could lead to delays in the project. 
 Hence, having a deadline will allow the developers to follow a certain time frame of planning and the making of the game.
-“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.”
+“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.” [2]
 
 
 The topics of the game have also not been decided. 
@@ -171,7 +171,7 @@ Furthermore, the customer must decide on what type of questions the topic will c
 Therefore, deciding what topics are on the game should be one of the points that will need to be clarified first.  
 
 #### Bibliography 
-https://ebookcentral.proquest.com/lib/reading/reader.action?docID=4763819 
+https://ebookcentral.proquest.com/lib/reading/reader.action?docID=4763819 [1]
 
 https://www.inmobi.com/blog/2015/01/19/4-legal-aspects-you-need-to-be-aware-of-when-developing-a-mobile-app
 
