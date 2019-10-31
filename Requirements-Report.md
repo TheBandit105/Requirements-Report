@@ -160,7 +160,7 @@ Deadlines must be decided as well and should be one of the points that should be
 There is no set deadline for this project. This could lead to delays in the project. 
 Hence, having a deadline will allow the developers to follow a certain time frame of planning and the making of the game.
 “The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.” 
-[https://www.quora.com/Why-is-important-to-meet-deadlines]  
+
 
 The topics of the game have also not been decided. 
 There should be a clear idea of what topics the game will include thus, the developers will know what content to include within the game.
