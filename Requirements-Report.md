@@ -111,7 +111,7 @@ Deciding whether the features are authentic can be troublesome and tricky to ove
 
 **Project estimation**:
 
-It can be really hard for any project to be estimated as it is mainly true when it comes to video games. For any company which is changing rapidly we must keep tight on our schedules or else we might get irritated or frustrated or end up executing new ideas until the end. A cool feature always sound cool, but do we have the time to accomplish? Does the profit gained outweigh the cost? How much do we need to rewrite the code? These few questionnaires we need to answer before we start anything new. Thus having a quality management is the key feature in every aspect of development process for productive achievement.
+It can be really hard for any project to be estimated as it is mainly true when it comes to video games. For any company which is changing rapidly we must keep tight on our schedules or else we might get irritated or frustrated or end up executing new ideas until the end. A cool feature always sounds cool, but do we have the time to accomplish? Does the profit gained outweigh the cost? How much do we need to rewrite the code? These few questionnaires we need to answer before we start anything new. Thus having a quality management is the key feature in every aspect of development process for productive achievement.
 
 **People risk**:
 
