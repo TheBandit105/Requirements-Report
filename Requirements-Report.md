@@ -25,8 +25,6 @@
    
    2.4 Question 4 (Points to clarify first)
    
-3.Conclusion
-
 4.Bibliography
 ````
   
