@@ -2,7 +2,10 @@
 #### Title:  *A Report on video game to encourage university student to do the set readings*.
 #### Requiremets Reports
 #### Abstract
-with an educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding seeling on educational video games.
+ An educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding seeling on educational video games.
+#### Introduction
+The aim is to create the software.
+
 
 #### Submitted By:Group-15(25098635; 26017523; 27015244)
 #### Date (when the work completed): 31st of November 2019.
