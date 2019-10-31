@@ -5,6 +5,12 @@
 
 #### Introduction
 
+Our team has been tasked to create a game product for our customer. The objective is to create an educational video game in the form of a first person puzzle game.
+This is going to be for the target audience of university students studying the history of the Atlantic, meaning the age range will be for mature individuals 18+
+with at least a basic knowledge of history. We will also be including a high score table to include some kind of competitiveness to the game which will also encouraging
+the users to compare to others and try to beat own or others high scores. We will be looking at the requirements of the product, points to be clarified from customer,
+and constraints included.
+
 #### Abstract
  An educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
 
