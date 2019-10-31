@@ -42,7 +42,7 @@ We will be looking at the requirements of the product, points to be clarified fr
 #### Abstract
  An educational objective to encourage university students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
 
-#### Backgroud
+#### Background
 The general background gathered while intergating the third party tool such as game coding engine and manipulate them to develop a educational software that opens the door of education through video games to engage university student.
 
 #### Production Timeline
@@ -55,7 +55,7 @@ The general background gathered while intergating the third party tool such as g
 |4|design and plan| assign the resources to each member and recruit experts|
 |5|preparing draft|purposal to the customer and modify accordingly|
 |6|testing software|checking the staus and check if it runs|
-|7|demonstration of software|handing over,installation and check full payment | 
+|7|demonstration of software|handing over, installation and check full payment | 
 #### Question 1
 
 The team will have to research some understanding of the history of the Atlantic in order to know what kind of information to include in the end product. We will use the information given to us in form of the book by Catherine Amstrong & Laura M Chmielewski, 2013, “The Atlantic Experience: peoples, places, ideas”, Palgrave Macmillan, Houndmills, Basingstoke, which is also available online.[1]
