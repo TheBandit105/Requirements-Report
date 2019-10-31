@@ -104,6 +104,16 @@ A suitable game engine must be selected for the project if not problem may arise
 
 It is most significant to keep our ideas and codes confidential but that it doesn’t meant to be lock down. Copyright law aims to protect the intellectual property and give exclusive right to the author of creative work. According to the given scenario, a customer wishes to develop an educational video game which requires a set of reading about the history of Atlantic as it brings a copyright issue. Thus, a copyright licence is required after the completion of game and needs to register for copyright to protect the game product.
 
+technical
+As the customer gives the requirements that they wish the game would include, you would need to consider several factors so that they can actually be done such as the time given to complete the tasks, the budget if there is enough money to start and complete the project.
+When creating the game, the customer should give the system specifications of the computer or devices where game will be played on. This is so the developers will know the requirements of the specification and will be able to develop the game suited for the device allowing them to run on the devices as it will be of no use if they can’t run the game on the computers they have.
+A system specification that would be required for the customer to give would be the type of operating system that the devices use e.g. Windows, Linux, IOS, Android etc. Other system requirements that must be known is the processor and memory as the processor allows the game to run effective so if the game was developed the required a faster processor than the one the computers have the game would run as well. Whereas memory is used to store information and data of the game e.g. the actual game size and when the game is running the temporary data such as score. Knowing the type of processor and memory allows to develop the game so that the computers can run the game effectively and efficiently.
+
+Legal constraints 
+When creating the game, the developers may use software to develop the game such as Unity which would mean they would need to follow their software license if the game is made to sell.
+Another legal constraint is that when the game is being developed there is confidentiality to ensure that the game is kept secure and that the idea isn’t taken away by other people and take ownership although the purpose of the game is educational it could still be commercialised. As the game is being created from the customers requirements there would be different teams working on the project e.g. the designers, developers etc so everyone whose working on the project would be required to keep the information a secret. This is usually done by signing a NDA (non-disclosure agreement) or getting intellectual property of the game.
+
+
 #### Question 4
 
 
