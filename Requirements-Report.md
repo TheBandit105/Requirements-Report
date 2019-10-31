@@ -181,3 +181,5 @@ https://www.possible.com/games/blog-7-difficulties-in-game-development
 https://www.wrighthassall.co.uk/knowledge/legal-articles/2015/11/23/legal-issues-independent-games-developers/
 
 https://en.wikipedia.org/wiki/Copyright_and_video_games
+
+https://www.quora.com/Why-is-important-to-meet-deadlines
