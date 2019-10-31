@@ -159,7 +159,7 @@ This is because more than one person would be able to join a server for the 1st 
 Deadlines must be decided as well and should be one of the points that should be clarified first.
 There is no set deadline for this project. This could lead to delays in the project. 
 Hence, having a deadline will allow the developers to follow a certain time frame of planning and the making of the game.
-“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.” 
+“The reason that it is important to meet deadlines is so that the recipient receives the quality standard and meeting deadlines also avoids any unnecessary delays.” [2]
 [https://www.quora.com/Why-is-important-to-meet-deadlines]  
 
 The topics of the game have also not been decided. 
@@ -176,8 +176,5 @@ https://www.inmobi.com/blog/2015/01/19/4-legal-aspects-you-need-to-be-aware-of-w
 
 https://www.solutionsiq.com/resource/blog-post/operating-requirements-vs-technical-constraints/
 
-https://www.possible.com/games/blog-7-difficulties-in-game-development
+https://www.quora.com/Why-is-important-to-meet-deadlines  
 
-https://www.wrighthassall.co.uk/knowledge/legal-articles/2015/11/23/legal-issues-independent-games-developers/
-
-https://en.wikipedia.org/wiki/Copyright_and_video_games
