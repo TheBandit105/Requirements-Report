@@ -76,7 +76,8 @@ Is it due to the fact that it requires team participation to complete the given 
 **Organisational risk**:
 
  Uncertainty and lack of resources which include materials, legal, security, budget, time as well as human resources can strike a project at any time. In order to avoid such circumstances team mush have organised plan and assign the management work to someone to keep the daily record as well to inform the deadline of the project.
-Technical issue:
+
+**Technical issue**:
 A suitable game engine must be selected for the project if not problem may arise while integrating third party tool such as game coding engine from the internet. The most common language for game development is C++ and Java and if we tend to use Unity for our game project as they don’t support C++as scripting language. So, this demands a period of time to learn and understand and manipulate them hence an appropriate selection is required to prevent the risk.
 
 **Legal Issue**:
