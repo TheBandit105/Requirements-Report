@@ -144,7 +144,7 @@ There are various topics within the subject so the customer will need to decide 
 Furthermore, the customer must decide on what type of questions the topic will contain. 
 Therefore, deciding what topics are on the game should be one of the points that will need to be clarified first.  
 
-#### Submitted By:Group-15(25098635; 26017523; 27015244, 28012575)
+#### Submitted By:Group-15(26017523; 27015244; 28012575; 28019623; 28019273)
 #### Date (when the work completed): 31st of October 2019.
 #### Actual hrs spent for the assignment:
 #### Assignment evaluation (3 key points): 
