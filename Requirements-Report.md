@@ -8,7 +8,7 @@
  An educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
 
 #### Backgroud
-
+The general background gathered while intergating the third party tool such as game coding engine and manipulate them to develop a educational software that opens the door of education through video games to engage uiversity student.
 
 #### Production Timeline
 
