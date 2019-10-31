@@ -1,13 +1,16 @@
 #### Module Code: CS1SE17
 #### Title:  *A Report on video game to encourage university student to do the set readings*.
 #### Requirements Reports
+
+#### Introduction
+
 #### Abstract
  An educational objective to encourage univesrity students to study set of readings on history about slave trade and privacy and to discuss the proceeding selling on educational video games.
-#### Introduction
+
 #### Backgroud
 
-#### Production Timeline
 
+#### Production Timeline
 
 |S.N no|Description|Remarks|
 |--|--|--|
